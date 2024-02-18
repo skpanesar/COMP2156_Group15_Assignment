@@ -8,4 +8,4 @@
 
 -- 101412843-kamal: 101412843_gb.txt, 101412843_devops.txt, 101412843_sdlc.txt
 
--- 101410506-harmanpreet_gb.txt, 101410
+-- 101410506-harmanpreet_gb.txt, 101410506_devops.txt
