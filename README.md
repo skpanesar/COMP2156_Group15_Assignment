@@ -1,5 +1,5 @@
 # COMP2156 GROUP PROJECT(group 15)
---Group Members: Surkamal(leader), Harmanpreet, Ansh, Kamal Saini and Bhuvnesh 
+-- Group Members: Surkamal(leader), Harmanpreet, Ansh, Kamal Saini and Bhuvnesh 
 
 # GitHub Actions created by Harmanpreet
 
